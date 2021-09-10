@@ -31,7 +31,7 @@ services:
     expose:
       - "80"
     volumes:
-      - /home/pi/peladonerd/varios/1/www:/usr/share/nginx/html:ro
+      - /home/pi/decaresp/varios/1/www:/usr/share/nginx/html:ro
     environment:
       - VIRTUAL_HOST=decaspace.cl,www.decaspace.cl
       - LETSENCRYPT_HOST=decaspace.cl,www.decaspace.cl

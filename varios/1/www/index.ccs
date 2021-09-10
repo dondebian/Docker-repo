@@ -1,0 +1,15 @@
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+-webkit-box-shadow: -8px -8px 19px #000000;
+-moz-box-shadow: -8px -8px 19px #000000;
+box-shadow: -8px -8px 19px #000000;
+-webkit-transform: rotate(-9deg) scale(1.4);
+-moz-transform: rotate(-9deg) scale(1.4);
+-o-transform: rotate(-9deg) scale(1.4);
+background-color: #000000;
+padding: 10px;
+font-family: Verdana, Geneva, sans-serif;
+font-size: 8pt;
+color: #FFFFFF;
+text-align: center;
